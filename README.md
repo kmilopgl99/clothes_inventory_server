@@ -1,1 +1,1 @@
-# clothes_inventory
+# clothes_inventory_server
